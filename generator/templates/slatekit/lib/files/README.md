@@ -16,7 +16,6 @@ Java       | 1.8.0  |
 Kotlin     | 1.3.21 | 
 CoRoutines | 1.1.0  | 
 Gradle     | 5.2.1  | 
-MySql      | 5.1.13 | 
 
 # Links
 Some important links / pages for more info.
