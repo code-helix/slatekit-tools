@@ -3,6 +3,7 @@
 Slate Kit CLI (command line interface) application to create Slate Kit projects
 
 # Links
+Refer to https://www.slatekit.com/start/generators/ page on setup and the pages below
 
 Page|Link|Notes
 ---|---|---
