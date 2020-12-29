@@ -1,0 +1,1 @@
+echo "slatekit tools 1.29.0"
