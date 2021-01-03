@@ -13,10 +13,13 @@ Tools|https://www.slatekit.com/start/generators/| Set up Generator tool
 Source|https://github.com/code-helix/slatekit | Git Page for project
 
 # Install
+Ensure security -> privacy -> full disk access -> iterm2 ( of what ever terminal you use )
 ```bash
 # WIP: This is just a test
 brew tap code-helix/slatekit
+brew tap 
 brew install skt
+skt
 ```
 
 # Uninstall
