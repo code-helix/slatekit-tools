@@ -20,9 +20,11 @@ brew tap
 brew install skt
 skt
 ```
-Notes:
+
+# Notes
 1. Ensure security -> privacy -> full disk access -> iterm2 ( of what ever terminal you use )
 2. Slow install with MacOS Catalina
+
 
 # Uninstall
 ```bash
