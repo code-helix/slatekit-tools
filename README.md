@@ -12,6 +12,20 @@ Setup|https://www.slatekit.com/start/setup/| Set up Dependencies
 Tools|https://www.slatekit.com/start/generators/| Set up Generator tool
 Source|https://github.com/code-helix/slatekit | Git Page for project
 
+# Install
+```bash
+# WIP: This is just a test
+brew tap code-helix/slatekit
+brew install skt
+```
+
+# Uninstall
+```bash
+brew uninstall skt
+brew untap code-helix/slatekit
+```
+
+
 # Create
 ```bash
   slatekit new app -name="MyApp1" -package="company1.apps"
